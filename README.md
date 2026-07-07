@@ -10,11 +10,13 @@
 
 ---
 
-### 🏆 Trofeos
+### 🏆 Logros
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pukarumi23&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=false&title=Stars,Commits,Followers,PullRequest)](https://github.com/pukarumi23)
+| 🌟 Estrellas | 👥 Seguidores | 📦 Repositorios |
+|:---:|:---:|:---:|
+| ![Stars](https://img.shields.io/github/stars/pukarumi23?style=for-the-badge&color=ff007f&labelColor=0d0d0d&label=) | ![Followers](https://img.shields.io/github/followers/pukarumi23?style=for-the-badge&color=bf00ff&labelColor=0d0d0d&label=) | ![Repos](https://img.shields.io/badge/dynamic/json?color=00e5ff&label=&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpukarumi23&style=for-the-badge&labelColor=0d0d0d) |
 
 </div>
 
