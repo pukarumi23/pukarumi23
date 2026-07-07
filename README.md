@@ -48,6 +48,10 @@
 
 <div align="center">
 
+<img src="https://i.pinimg.com/1200x/ac/ec/97/acec972bf08eacaa56c5e18afcaf68ed.jpg" width="150" style="border-radius:12px"/>
+
+<br/><br/>
+
 **[🌸 Marin Kitagawa Bot](https://github.com/pukarumi23/MARIN-KITAGWA_BOT)**
 
 *Sistema de automatización para WhatsApp impulsado por IA*
