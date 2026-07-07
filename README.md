@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋 Soy CHASKI
+# Holaaa👋 Soy CHASKI
 
 <br/>
 
@@ -8,26 +8,25 @@
 
 </div>
 
-
 ---
 
-### 📊 Estadísticas
+### 🏆 Trofeos
 
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=pukarumi23&show_icons=true&theme=radical&bg_color=0d0d0d&border_color=ff007f&title_color=00e5ff&icon_color=ff007f&text_color=ffffff)](https://github.com/pukarumi23)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pukarumi23&theme=radical&background=0d0d0d&border=ff007f&ring=00e5ff&fire=ff007f&currStreakLabel=00e5ff)](https://github.com/pukarumi23)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pukarumi23&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=false&title=Stars,Commits,Followers,PullRequest)](https://github.com/pukarumi23)
 
 </div>
 
 ---
 
-### 📈 Actividad
+### 📊 Estadísticas rápidas
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pukarumi23&bg_color=0d0d0d&color=00e5ff&line=ff007f&point=bf00ff&area=true&hide_border=false&border_color=ff007f)](https://github.com/pukarumi23)
+![Repos](https://img.shields.io/badge/dynamic/json?color=ff007f&label=REPOSITORIOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpukarumi23&style=for-the-badge&labelColor=0d0d0d)
+![Followers](https://img.shields.io/github/followers/pukarumi23?style=for-the-badge&color=00e5ff&labelColor=0d0d0d&label=SEGUIDORES)
+![Stars](https://img.shields.io/github/stars/pukarumi23?style=for-the-badge&color=bf00ff&labelColor=0d0d0d&label=ESTRELLAS)
 
 </div>
 
@@ -47,7 +46,13 @@
 
 <div align="center">
 
-[![Marin Kitagawa Bot](https://github-readme-stats.vercel.app/api/pin/?username=pukarumi23&repo=MARIN-KITAGWA_BOT&theme=radical&bg_color=0d0d0d&border_color=ff007f&title_color=00e5ff&icon_color=ff007f&text_color=ffffff)](https://github.com/pukarumi23/MARIN-KITAGWA_BOT)
+**[🌸 Marin Kitagawa Bot](https://github.com/pukarumi23/MARIN-KITAGWA_BOT)**
+
+*Sistema de automatización para WhatsApp impulsado por IA*
+
+[![Stars](https://img.shields.io/github/stars/pukarumi23/MARIN-KITAGWA_BOT?style=for-the-badge&color=ff007f&labelColor=0d0d0d)](https://github.com/pukarumi23/MARIN-KITAGWA_BOT/stargazers)
+[![Forks](https://img.shields.io/github/forks/pukarumi23/MARIN-KITAGWA_BOT?style=for-the-badge&color=00e5ff&labelColor=0d0d0d)](https://github.com/pukarumi23/MARIN-KITAGWA_BOT/network/members)
+[![Last Commit](https://img.shields.io/github/last-commit/pukarumi23/MARIN-KITAGWA_BOT?style=for-the-badge&color=bf00ff&labelColor=0d0d0d)](https://github.com/pukarumi23/MARIN-KITAGWA_BOT/commits)
 
 </div>
 
