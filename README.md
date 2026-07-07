@@ -8,15 +8,6 @@
 
 </div>
 
----
-
-### 🏆 Trofeos
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pukarumi23&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=false&title=Stars,Commits,Followers,PullRequest)](https://github.com/pukarumi23)
-
-</div>
 
 ---
 
